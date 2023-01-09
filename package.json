@@ -48,7 +48,7 @@
     "jquery": "^3.2.1",
     "leaflet": "^1.0.3",
     "leaflet.markercluster": "^1.0.5",
-    "method-override": "^2.3.4",
+    "method-override": "^3.0.0",
     "moment": "^2.18.1",
     "morgan": "^1.7.0",
     "ngprogress": "https://github.com/VictorBjelkholm/ngProgress.git",
@@ -60,12 +60,12 @@
     "redis": "^2.6.2",
     "request": "^2.75.0",
     "sigma": "https://github.com/goVanilla/sigma.js.git",
-    "socket.io": "^1.4.8",
+    "socket.io": "^2.1.0",
     "split": "^1.0.0",
     "underscore": "^1.8.3",
     "webpack": "^2.4.1",
     "webpack-bundle-analyzer": "^2.3.1",
-    "webpack-dev-server": "^2.4.2"
+    "webpack-dev-server": "^3.1.10"
   },
   "devDependencies": {
     "babel-core": "^6.24.0",
